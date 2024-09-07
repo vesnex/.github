@@ -1,1 +1,3 @@
-## Bunch of kids making random stuffs :)
+<div class="items-center">
+  <img src="../Vesnex-Banner.png">
+</div>
