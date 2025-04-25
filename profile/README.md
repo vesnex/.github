@@ -1,3 +1,3 @@
 <div class="items-center">
-  <img src="../Vesnex-Banner.png">
+  <img src="../vesnex-banner.png">
 </div>
